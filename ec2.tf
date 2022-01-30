@@ -1,3 +1,3 @@
 module "ec2module" {
-  source = "modules"
+  source = "nlmlabs-linuxTest/modules"
 }
